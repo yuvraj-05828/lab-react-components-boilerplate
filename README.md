@@ -34,6 +34,7 @@ Similarly, you have to create `components` for `header` section and  `body` sect
 
 ### Keep in mind:
 Just keep in mind -> how will you manage the styles for each component. ( For now all the styling for this webpage is done inside `App.css` file).
+So is it a good idea to add all your css inside a single file, or should you have different files for different `components`🧐.
 
 ### Output:
 You should be able to produce the same webpage -- that you currently have from the code provided to you.
